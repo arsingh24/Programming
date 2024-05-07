@@ -1,0 +1,1 @@
+{"name":"Local: is hot or cold","url":"d:\\Programming\\is hot or cold.cpp","tests":[{"id":1658934047446,"input":"2\n3 5 6 2\n16 15 5 4","output":"11\n21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Programming\\is hot or cold.cpp","group":"local","local":true}

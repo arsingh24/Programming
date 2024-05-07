@@ -1,0 +1,29 @@
+*{
+    font-family:cursive;
+}
+
+body {
+    font-size: 24px;
+    color: blueviolet;
+    background-color: black;
+}
+p:hover{
+    font-family: fantasy;
+}
+#first>p{
+    color: greenyellow;
+}
+#first {
+    color: orange;
+}
+
+.purple{
+    color: burlywood !important;
+    font-family: fantasy;
+}
+
+.highlight{
+    color: blue;
+    font-weight: border;
+    font-style: italic;
+}

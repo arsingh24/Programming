@@ -4,3 +4,6 @@ int simpleArraySum(vector<int> ar) {
     cout<<sum;
 
 }
+
+
+//Solved

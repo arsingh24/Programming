@@ -1,0 +1,21 @@
+body{
+    background-color: orange;
+}
+
+@media (min-width:400px) and (max-width:600px){
+    body{
+        background-color: white;
+    }
+}
+
+/* @media (width<=200px){
+    body{
+        background-color: green;
+    }
+} */
+
+/* @media (min-width:400px){
+    body{
+        background-color: aqua;
+    }
+} */
